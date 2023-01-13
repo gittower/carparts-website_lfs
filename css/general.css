@@ -57,6 +57,14 @@ a:hover {
   
   
   
+/************************ Shopping Cart */
+
+#shopping-cart {
+  background-color: blue;
+}
+
+
+
 /************************ Top Navi */
 #navigation {
   position:absolute;
